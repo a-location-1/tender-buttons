@@ -1,5 +1,5 @@
 ---
-title: "PROJECT-INTRODUCTION"
+title: "PROJECT INTRODUCTION"
 date: 2024-08-10
 ---
 
