@@ -2,3 +2,13 @@ theme: minima
 title: Tender Buttons Project
 author: a-location-1
 description: Analyzing Gertrude Stein's Tender Buttons
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - about.md
+
+social_links:
+  - { platform: github,         user_url: "https://github.com/a-location-1/" }
