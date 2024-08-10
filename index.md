@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Tender Buttons Project: Analyzing Gertrude Stein's Tender Buttons
 ---
 
