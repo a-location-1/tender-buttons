@@ -14,6 +14,14 @@ This project is:
  - A public record that might encourage engagement with *Tender Buttons*.
  - A potential jumping off point for larger-scale, semi-automated analyses of texts, particularly performance texts. We'll see what happens! 
 
+## Why Tender Buttons?
+
+Modernist writing, and avant-garde art in general, has a reputation for difficulty; data analysis is a way to approach modernist texts from a different angle. 
+
+In a 1946 interview Stein described the process of writing *Tender Buttons*: "I used to take objects on a table, like a tumbler or any kind of object and try to get the picture of it clear and separate in my mind and create a word relationship between the word and the things seen. [...] I try to call to the eye the way it appears by suggestion the way a painter can do it. This is difficult and takes a lot of work and concentration to do it. I want to indicate it without calling in other things." Stein chose her words carefully, and ordered them carefully; 
+
+
+
 ## The Project Plan
 
 > A glass is of any height, it is higher, it is simpler and if it were placed there would not be any doubt. 
