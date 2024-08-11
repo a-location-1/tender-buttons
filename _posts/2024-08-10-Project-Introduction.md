@@ -46,7 +46,7 @@ The plan is to iterate through these steps multiple times, refining the process 
 | *Data Analysis*   | **SQLite.** Run a battery of basic queries in an attempt to find interesting patterns. | TBD | TBD |
 | *Data Visualization*   | **LibreOffice's Calc Spreadsheet.** Display the results in a static worksheet.   | TBD | TBD |
 
-Each blog post after this one will detail the process and results of a new iteration. The idea is to avoid getting bogged down by mistakes and chase improvements across the board: in data accuracy, in procedural integrity, in complexity of analysis, in scalability, and in theoretical relevance. Please contact me on GitHub if you have any questions or suggestions. Thanks! 
+Each blog post after this one will detail the process and results of a new iteration. The idea is to avoid getting bogged down by mistakes and chase improvements across the board: in data accuracy, in procedural integrity, in complexity of analysis, in scalability, and in theoretical relevance. Please [contact me on GitHub](https://github.com/a-location-1) if you have any questions or suggestions. Thanks! 
 
 [^1]: "A Transatlantic Interview--1946." *A Primer for the Gradual Understanding of Gertrude Stein.* Ed. Robert Bartlett Haas. Black Sparrow Press, 1971. 
 
