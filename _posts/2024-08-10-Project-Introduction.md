@@ -36,6 +36,12 @@ In a 1946 interview Stein described the process of writing *Tender Buttons*: "I 
 
 ![DamienElwes2010]({{site.url}}/images/DamienElwes2010.png)
 
+![DamienElwes2010](https://github.com/a-location-1/tender-buttons/blob/main/images/DamienElwes.png)
+
+<img src="https://github.com/a-location-1/tender-buttons/blob/main/images/DamienElwes.png" style="margin: auto;" />
+
+<img src="{{site.url}}/images/DamienElwes2010.png" style="margin: auto;" />
+
 <img src="{{site.url}}/images/DamienElwes2010.png" style="margin: auto;" />
 
 <img src={{site.url}}/images/DamienElwes2010.png margin: auto />
