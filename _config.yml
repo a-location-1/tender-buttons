@@ -10,6 +10,8 @@ plugins:
 header_pages:
   - about.md
 
+url: https://a-location-1.github.io/
+
 minima:
   social_links:
     - { platform: github,         user_url: "https://github.com/a-location-1/" }
