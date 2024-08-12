@@ -26,6 +26,14 @@ In a 1946 interview Stein described the process of writing *Tender Buttons*: "I 
 
 ![DamienElwes2010]({{site.url}}/images/DamienElwes2010.png?raw=true)
 
+![DamienElwes2010](images/DamienElwes2010.png?raw=true)
+
+![DamienElwes2010](images/DamienElwes2010.png)
+
+![DamienElwes2010](/images/DamienElwes2010.png)
+
+![DamienElwes2010](DamienElwes2010.png)
+
 ![DamienElwes2010]({{site.url}}/images/DamienElwes2010.png)
 
 <img src="{{site.url}}/images/DamienElwes2010.png" style="margin: auto;" />
