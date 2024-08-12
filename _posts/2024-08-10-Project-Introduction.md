@@ -23,7 +23,8 @@ In a 1946 interview Stein described the process of writing *Tender Buttons*: "I 
 *Tender Buttons* is a product of tremendous attention, making it a perfect candidate for sustained analysis. It's also serendipitous that "tender buttons" sounds like one of GitHub's randomly generated names for a new repository - the legacy of modernism in contemporary form. 
 
 ###### Damien Elwes, *Picasso's studio at Bateau Lavoir 1908* (2010).[^2] Robert Bartlett Haas writes that "*Tender Buttons* was to Gertrude Stein's development what the "Demoiselles d'Avignon" was to Picasso's, a key work marked with the enormous struggle of creating a new value."[^3]
-![DamienElwes2010](../Images/DamienElwes2010.png) 
+
+<img src=https://github.com/a-location-1/tender-buttons/tree/main/images/DamienElwes2010.png alt=DamienElwes2010 width=auto align=left>
 
 ## The Project Plan
 
