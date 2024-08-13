@@ -30,9 +30,13 @@ This is test text.
 
 ![DamienElwes2010](images/DamienElwes2010.png?raw=true)
 
-![DamienElwes2010](images/DamienElwes2010.png)
+![DamienElwes2010](images/Damien-Elwes-2010.png)
 
-![DamienElwes2010](/images/DamienElwes2010.png)
+![DamienElwes2010](/images/Damien-Elwes-2010.png)
+
+![DamienElwes2010](./images/Damien-Elwes-2010.png)
+
+![DamienElwes2010](../images/Damien-Elwes-2010.png)
 
 ![DamienElwes2010](DamienElwes2010.png)
 
