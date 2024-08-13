@@ -24,7 +24,12 @@ In a 1946 interview Stein described the process of writing *Tender Buttons*: "I 
 
 ###### Damien Elwes, *Picasso's studio at Bateau Lavoir 1908* (2010).[^2] Robert Bartlett Haas writes that "*Tender Buttons* was to Gertrude Stein's development what the "Demoiselles d'Avignon" was to Picasso's, a key work marked with the enormous struggle of creating a new value."[^3]
 
-This is test text. 
+![Mequitta Ahuja, Le Damn Revisited, 2018](https://github.com/a-location-1/tender-buttons/blob/main/images/Damien-Elwes-2010.png?raw=true)
+
+![Mequitta Ahuja, Le Damn Revisited, 2018](https://github.com/a-location-1/tender-buttons/blob/main/images/Damien-Elwes-2010.png)
+
+
+
 
 ![DamienElwes2010]({{site.url}}/images/DamienElwes2010.png?raw=true)
 
