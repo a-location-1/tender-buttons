@@ -30,7 +30,7 @@ This is test text.
 
 ![DamienElwes2010](images/DamienElwes2010.png?raw=true)
 
-![DamienElwes2010](images/Damien-Elwes-2010.png.png)
+![DamienElwes2010](https://github.com/a-location-1/tender-buttons/blob/main/images/Mequitta-Ahuja-218.png?raw=true)
 
 ![DamienElwes2010](/images/Damien-Elwes-2010.png.png)
 
@@ -38,13 +38,17 @@ This is test text.
 
 ![DamienElwes2010](../images/Damien-Elwes-2010.png.png)
 
+![DamienElwes2010](../main/images/Damien-Elwes-2010.png.png)
+
 ![DamienElwes2010](DamienElwes2010.png)
 
 ![DamienElwes2010](images/DamienElwes2010.png)
 
 ![DamienElwes2010]({{site.url}}/images/DamienElwes2010.png)
 
-![DamienElwes2010](https://github.com/a-location-1/tender-buttons/blob/main/images/DamienElwes.png)
+![DamienElwes2010](https://github.com/a-location-1/tender-buttons/blob/main/images/Damien-Elwes-2010.png)
+
+![](https://github.com/a-location-1/tender-buttons/blob/main/images/Mequitta-Ahuja-218.png?raw=true)
 
 <img src="https://github.com/a-location-1/tender-buttons/blob/main/images/DamienElwes.png" style="margin: auto;" />
 
