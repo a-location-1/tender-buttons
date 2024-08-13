@@ -2,10 +2,7 @@
 Tender Buttons Project: Analyzing Gertrude Stein's Tender Buttons
 ---
 
-![Mequitta Ahuja 2018](images/Mequitta-Ahuja-2018.png)
-
-![image](https://github.com/a-location-1/tender-buttons/blob/main/images/Mequitta-Ahuja-218.png?raw=true)
-
+![Mequitta Ahuja, Le Damn Revisited, 2018](https://github.com/a-location-1/tender-buttons/blob/main/images/Mequitta-Ahuja-218.png?raw=true)
 
 ###### Mequitta Ahuja, *Le Damn Revisited*, 2018. [Courtesy of the artist.](http://www.mequittaahuja.com/digital-portfolio.html) 
 
