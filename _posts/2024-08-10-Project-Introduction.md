@@ -22,52 +22,9 @@ In a 1946 interview Stein described the process of writing *Tender Buttons*: "I 
 
 *Tender Buttons* is a product of tremendous attention, making it a perfect candidate for sustained analysis. It's also serendipitous that "tender buttons" sounds like one of GitHub's randomly generated names for a new repository - the legacy of modernism in contemporary form. 
 
+![Damien Elwes, Picasso's studio at Bateau Lavoir 1908, 2010](https://github.com/a-location-1/tender-buttons/blob/main/images/Damien-Elwes-2010.png?raw=true)
+
 ###### Damien Elwes, *Picasso's studio at Bateau Lavoir 1908* (2010).[^2] Robert Bartlett Haas writes that "*Tender Buttons* was to Gertrude Stein's development what the "Demoiselles d'Avignon" was to Picasso's, a key work marked with the enormous struggle of creating a new value."[^3]
-
-![Mequitta Ahuja, Le Damn Revisited, 2018](https://github.com/a-location-1/tender-buttons/blob/main/images/Damien-Elwes-2010.png?raw=true)
-
-![Mequitta Ahuja, Le Damn Revisited, 2018](https://github.com/a-location-1/tender-buttons/blob/main/images/Damien-Elwes-2010.png)
-
-
-
-
-![DamienElwes2010]({{site.url}}/images/DamienElwes2010.png?raw=true)
-
-![DamienElwes2010](images/DamienElwes2010.png?raw=true)
-
-![DamienElwes2010](https://github.com/a-location-1/tender-buttons/blob/main/images/Mequitta-Ahuja-218.png?raw=true)
-
-![DamienElwes2010](/images/Damien-Elwes-2010.png.png)
-
-![DamienElwes2010](./images/Damien-Elwes-2010.png.png)
-
-![DamienElwes2010](../images/Damien-Elwes-2010.png.png)
-
-![DamienElwes2010](../main/images/Damien-Elwes-2010.png.png)
-
-![DamienElwes2010](DamienElwes2010.png)
-
-![DamienElwes2010](images/DamienElwes2010.png)
-
-![DamienElwes2010]({{site.url}}/images/DamienElwes2010.png)
-
-![DamienElwes2010](https://github.com/a-location-1/tender-buttons/blob/main/images/Damien-Elwes-2010.png)
-
-![](https://github.com/a-location-1/tender-buttons/blob/main/images/Mequitta-Ahuja-218.png?raw=true)
-
-<img src="https://github.com/a-location-1/tender-buttons/blob/main/images/DamienElwes.png" style="margin: auto;" />
-
-<img src="{{site.url}}/images/DamienElwes2010.png" style="margin: auto;" />
-
-<img src="{{site.url}}/images/DamienElwes2010.png" style="margin: auto;" />
-
-<img src={{site.url}}/images/DamienElwes2010.png margin: auto />
-
-<img src={{site.url}}/images/DamienElwes2010.png alt=DamienElwes2010 width=auto align=left />
-
-<img src={{site.url}}/images/DamienElwes2010.png margin: auto >
-
-<img src={{site.url}}/images/DamienElwes2010.png margin=auto >
 
 ## The Project Plan
 
