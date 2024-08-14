@@ -24,7 +24,7 @@ In a 1946 interview Stein described the process of writing *Tender Buttons*: "I 
 
 ![Damien Elwes, Picasso's studio at Bateau Lavoir 1908, 2010](https://github.com/a-location-1/tender-buttons/blob/main/images/Damien-Elwes-2010.png?raw=true)
 
-###### Damien Elwes, *Picasso's studio at Bateau Lavoir 1908* (2010).[^2] Robert Bartlett Haas writes that "*Tender Buttons* was to Gertrude Stein's development what the "Demoiselles d'Avignon" was to Picasso's, a key work marked with the enormous struggle of creating a new value."[^3]
+###### Detail of Damien Elwes, *Picasso's studio at Bateau Lavoir 1908* (2010).[^2] Robert Bartlett Haas writes that "*Tender Buttons* was to Gertrude Stein's development what the "Demoiselles d'Avignon" was to Picasso's, a key work marked with the enormous struggle of creating a new value."[^3]
 
 ## The Project Plan
 
@@ -51,6 +51,6 @@ Each blog post after this one will detail the process and results of a new itera
 
 [^1]: "A Transatlantic Interview--1946." *A Primer for the Gradual Understanding of Gertrude Stein.* Ed. Robert Bartlett Haas. Black Sparrow Press, 1971. 
 
-[^2]: Detail from Damien Elwes, *Picasso's studio at Bateau Lavoir 1908* (2010). Printed in Baiges, Maite Méndez. "After Picasso: Reinterpretations and recreations of *Les Demoiselles D'Avignon* in Contemporary Art." *Les Demoiselles d'Avignon and Modernism.* Firenze University Press, 2022.
+[^2]: Printed in Baiges, Maite Méndez. "After Picasso: Reinterpretations and recreations of *Les Demoiselles D'Avignon* in Contemporary Art." *Les Demoiselles d'Avignon and Modernism.* Firenze University Press, 2022.
 
 [^3]: "A Transatlantic Interview--1946."  
