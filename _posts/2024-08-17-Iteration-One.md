@@ -31,6 +31,10 @@ HERE'S THE CODE FOR OPENING THE FILES.
 
 ## 2. Text Cleaning
 
+My solution to (1) cleaning up the text and (2) isolating the words is to read the entire text file letter by letter, twice. The first pass strips out page numbers and extra spaces, the second pass builds the subsection names (which always have the same format: all capital letters followed by a period, e.x. `A CARAFE, THAT IS A BLIND GLASS.`) and the words, storing the punctuation seperately.
+
+The code tries to handle hyphens that result from line breaks, but my brute force solution isn't perfect. It also handles apostrophes (added to the word) and end punctuation (stored in a seperate variable). 
+
 ## 3. Text Export: Making a Relational database 
 
 ## 4. Data Analysis
