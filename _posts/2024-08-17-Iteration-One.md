@@ -43,6 +43,9 @@ The code tries to handle hyphens that result from line breaks, but my brute forc
 
 ## Iteration Two?
 
+>A  light  white,  a  disgrace,  an  ink  spot,  a  rosy 
+charm. 
+
 For iteration two my aim is to make my code a bit more pythonic, although I'm going to hold off on exploring some of more powerful python libraries for now. 
 
 | Stage      | Iteration One | Iteration Two | Iteration Three |
