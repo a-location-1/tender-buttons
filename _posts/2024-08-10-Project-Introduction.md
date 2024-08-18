@@ -37,7 +37,7 @@ The project requires five steps:
 4. *Data Analysis.* Design queries that pull meaning from the data.
 5. *Data Visualization.* Display the results of the analysis. 
 
-The plan is to iterate through these steps multiple times, refining the process and using different tools to achieve better results. Here's my plan for iteration one: 
+The plan is to iterate through these steps, refining the process and using different tools to achieve better results. Here's iteration one: 
 
 | Stage      | Iteration One | Iteration Two | Iteration Three |
 | ----------- | ----------- | ----------- | ----------- | 
